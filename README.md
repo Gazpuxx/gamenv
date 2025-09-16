@@ -13,4 +13,4 @@ Welcome to **GamEnv**! This website helps students learn about environmental iss
 
 ## Contact
 
-For questions or feedback, please open an issue on GitHub.
+Contact: xyz
